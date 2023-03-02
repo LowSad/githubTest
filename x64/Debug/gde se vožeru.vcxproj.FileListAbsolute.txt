@@ -1,0 +1,6 @@
+C:\Data\Desktop\gde se vožeru\x64\Debug\gde se vožeru.exe
+C:\Data\Desktop\gde se vožeru\x64\Debug\gde se vožeru.pdb
+C:\Data\Desktop\test\x64\Debug\gde se vožeru.exe
+C:\Data\Desktop\test\x64\Debug\gde se vožeru.pdb
+C:\Data\Visual Studio 2019\Programy\test\x64\Debug\gde se vožeru.exe
+C:\Data\Visual Studio 2019\Programy\test\x64\Debug\gde se vožeru.pdb
